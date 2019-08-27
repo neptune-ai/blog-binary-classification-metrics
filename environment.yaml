@@ -1,0 +1,16 @@
+name: blog_metrics
+
+dependencies:
+  - python=3.6.8
+  - pip=19.1.1=py36_0
+  - psutil
+  - lightgbm
+  - pandas
+  - jupyterlab=0.35
+  - nodejs
+  - matplotlib
+
+  - pip:
+    - neptune-client==0.3.7
+    - neptune-contrib[all]==0.12.4
+    - neptune-notebooks==0.0.8

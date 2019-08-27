@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# data
+data/train_transaction.csv
+
+# idea
+.idea
