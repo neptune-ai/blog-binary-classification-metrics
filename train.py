@@ -11,7 +11,7 @@ plt.rcParams.update({'figure.figsize': [16, 12]})
 plt.style.use('seaborn-whitegrid')
 
 # Define parameters
-PROJECT_NAME = 'neptune-ml/binary-classification-metrics'
+PROJECT_NAME = 'neptune-ai/binary-classification-metrics'
 
 TRAIN_PATH = 'data/train.csv'
 TEST_PATH = 'data/test.csv'
